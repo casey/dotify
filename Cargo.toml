@@ -1,6 +1,9 @@
 [package]
-name = "brailledump"
-version = "0.0.0"
-authors = ["Casey Rodarmor <casey@rodarmor.com>"]
+name        = "brailledump"
+version     = "0.0.0"
+authors     = ["Casey Rodarmor <casey@rodarmor.com>"]
+description = "Convert bytes to braille"
+license     = "CC0-1.0"
+homepage    = "https://github.com/casey/brailledump"
 
 [dependencies]

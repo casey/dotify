@@ -29,7 +29,7 @@ fn main() -> io::Result<()> {
       buffer.len()
     };
 
-    writer.write(braille.as_bytes());
+    writer.write(braille.as_bytes())?;
 
     reader.consume(bytes_read);
   }
