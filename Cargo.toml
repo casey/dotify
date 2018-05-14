@@ -1,6 +1,6 @@
 [package]
 name        = "dotify"
-version     = "0.0.0"
+version     = "1.0.0"
 authors     = ["Casey Rodarmor <casey@rodarmor.com>"]
 description = "Convert bytes to braille and back again"
 license     = "CC0-1.0"
