@@ -1,9 +1,10 @@
 [package]
-name        = "brailledump"
+name        = "dotify"
 version     = "0.0.0"
 authors     = ["Casey Rodarmor <casey@rodarmor.com>"]
-description = "Convert bytes to braille"
+description = "Convert bytes to braille and back again"
 license     = "CC0-1.0"
-homepage    = "https://github.com/casey/brailledump"
+homepage    = "https://github.com/casey/dotify"
 
 [dependencies]
+clap = "2.31.2"
